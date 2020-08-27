@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oliwill.GitHub.io</id>
     <title>中华一番包子</title>
-    <updated>2020-08-27T01:18:05.886Z</updated>
+    <updated>2020-08-27T01:25:10.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oliwill.GitHub.io"/>
     <link rel="self" href="https://oliwill.GitHub.io/atom.xml"/>
@@ -10,6 +10,55 @@
     <logo>https://oliwill.GitHub.io/images/avatar.png</logo>
     <icon>https://oliwill.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 中华一番包子</rights>
+    <entry>
+        <title type="html"><![CDATA[汉堡肉]]></title>
+        <id>https://oliwill.GitHub.io/post/han-bao-rou/</id>
+        <link href="https://oliwill.GitHub.io/post/han-bao-rou/">
+        </link>
+        <updated>2020-08-27T01:24:43.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="食材">食材</h2>
+<p>牛绞肉：280g<br>
+猪绞肉：120g<br>
+面包粉：30g<br>
+牛奶：70g<br>
+洋葱：半颗<br>
+鸡蛋：1颗<br>
+盐：3 茶匙<br>
+黑胡椒：少许<br>
+五香粉：少许</p>
+<h2 id="做法">做法</h2>
+<ol>
+<li>由于牛奶比较难和绞肉融合，所以先把牛奶倒入面包粉中，拌匀静置；</li>
+<li>洋葱切丁，尽量切成小丁，以免汉堡肉上能看出大块的洋葱块；</li>
+<li>锅中热油，倒入洋葱丁，炒至透明状后取出自然冷却；</li>
+<li>用一个比较大的盆，把绞肉放进去，倒入盐，用手抓匀，抓到肉呈丝状为宜；</li>
+<li>倒入已经和牛奶融合了的面包粉，冷却了的洋葱丁，鸡蛋，继续抓匀；</li>
+<li>加入胡椒粉，五香粉，抓匀（这个时候已经可以闻到肉饼的香味了，要忍住别让口水滴进去）；</li>
+<li>把肉铺平，画十字分成 4 份，抓起一份用双手反复拍打把空气打出，在拍打的过程中把肉饼捏成椭圆形。可以提前在手上抹一些油，防止肉粘手；</li>
+<li>锅中倒入少量油，开中火把处理好的肉饼放入锅中。煎 3 分钟左右翻面继续煎。此时应该底部成型，且有一点点焦；</li>
+<li>翻面 2 分钟左右，开小火，盖上盖子继续煎 5 分钟；</li>
+<li>5 分钟后开盖，可以用一根牙签插入肉饼，如果出现白色的汤汁说明肉饼内部也已经熟了。如果出现的是红色的肉汁，那继续煎一会儿；</li>
+<li>取出肉饼装盘，用锡纸包住保温；</li>
+</ol>
+<p>现在天热，所以我们来做一个酸甜口的 sauce。</p>
+<h2 id="食材-2">食材</h2>
+<p>蘑菇：5-6 颗<br>
+蕃茄酱<br>
+红酒：50ml<br>
+苹果：1/4 颗<br>
+水：适量</p>
+<h2 id="做法-2">做法</h2>
+<ol>
+<li>刚才煮汉堡肉的锅不用洗，直接开大火，把蘑菇切片后倒入其中翻炒；</li>
+<li>蘑菇炒到有一些泛黄后倒入红酒，先大火煮一下，让酒精挥发出来；</li>
+<li>加入番茄酱炒匀，大火收汁，然后转小火；</li>
+<li>把苹果搓成泥，如果没刨子的话，可以用搅拌机等提前把苹果打成泥倒入；</li>
+<li>如果此时 sauce 太粘稠的话，可以加一点水；</li>
+<li>试一下味道，如果觉得口味不够丰富的话，可以再加一点酱油或者盐；</li>
+<li>把 sauce 淋到汉堡肉上就可以开动啦！</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏日特饮|柠檬红茶]]></title>
         <id>https://oliwill.GitHub.io/post/xia-ri-te-yin-orning-meng-hong-cha/</id>
@@ -594,73 +643,6 @@ hagoromo 的玉米罐头日亚上 3 罐 <a href="https://www.amazon.co.jp/%E3%81
 <li>煮半小时左右，如果喜欢更为酥烂的牛尾骨可再煮久一些</li>
 <li>煮完后依据个人喜好加盐。</li>
 <li>如喜好更浓稠的汤的话，将牛尾骨清洗擦干之后可裹上一层面粉再煎。</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨日的美食]]></title>
-        <id>https://oliwill.GitHub.io/post/zuo-ri-de-mei-shi/</id>
-        <link href="https://oliwill.GitHub.io/post/zuo-ri-de-mei-shi/">
-        </link>
-        <updated>2020-02-29T09:08:55.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="ep01-第一晚-3-品-1-汤">ep01 第一晚 3 品 1 汤</h2>
-<p>汤菜/生拌萝卜鱼贝肉/中华风味蛋炒竹笋/猪肉芜菁味增汤配牛蒡舞菇焖饭<br>
-<img src="https://raw.githubusercontent.com/oliwill/PicGo/master/20200229171452.jpg" alt="牛蒡舞菇焖饭" loading="lazy"></p>
-<h2 id="牛蒡舞菇焖饭">牛蒡舞菇焖饭</h2>
-<h3 id="食材">食材</h3>
-<p>海带 1 片<br>
-腌三文鱼 2 片<br>
-牛蒡 1 根<br>
-舞菇 1 颗<br>
-芝麻 适量</p>
-<h3 id="配料">配料</h3>
-<p>料酒 适量<br>
-酱油 适量</p>
-<h3 id="做法">做法</h3>
-<ol>
-<li>米浸泡一天，用大勺舀出 2 勺水</li>
-<li>加入海带 1 片</li>
-<li>加入适量料酒、酱油稍作入味</li>
-<li>加入腌三文鱼 2 片，一般 1 合米 1 片腌三文鱼（注：「合」为日本度量单位体积单位，1 合约为 0.18039 立方米）</li>
-<li>牛蒡削成薄片放入，牛蒡的涩味是多酚，是鲜味之本，所以不浸泡在水里</li>
-<li>舞菇用手撕碎加入</li>
-<li>放入电饭煲煮饭</li>
-<li>煮完后焖一会儿，在锅内捣碎三文鱼盛出，加适当芝麻点缀</li>
-</ol>
-<h2 id="猪肉和芜菁叶子味增汤">猪肉和芜菁叶子味增汤</h2>
-<h3 id="食材-2">食材</h3>
-<p>猪肉<br>
-芜菁叶子<br>
-味增</p>
-<h3 id="做法-2">做法</h3>
-<ol>
-<li>猪肉切片</li>
-<li>芜菁叶子切片</li>
-<li>用出汁煮猪肉片，芜菁叶子 ，煮开后转中火煮 3 分钟</li>
-<li>关火后再漏勺盛着味增，放入汤中，用筷子轻轻搅动，让味增充分融入汤中</li>
-</ol>
-<h2 id="汤菜">汤菜</h2>
-<h3 id="食材-3">食材</h3>
-<p>油菜<br>
-油豆腐</p>
-<h3 id="做法-3">做法</h3>
-<ol>
-<li>油菜切段</li>
-<li>油豆腐切成小块</li>
-<li>热油，放入油菜，油豆腐翻炒一会儿加入 2 汤勺酱油</li>
-<li>出锅</li>
-</ol>
-<h2 id="中华风味的蛋炒竹笋丝配榨菜">中华风味的蛋炒竹笋丝配榨菜</h2>
-<h3 id="食材-4">食材</h3>
-<p>榨菜<br>
-葱<br>
-笋<br>
-鸡蛋 1 颗</p>
-<h3 id="做法-4">做法</h3>
-<ol>
-<li>葱、榨菜切丁</li>
-<li>鸡蛋打匀，热油，倒入鸡蛋适当滑炒后倒出</li>
-<li>用余油翻炒葱、榨菜，倒入笋，蛋炒匀后盛出</li>
 </ol>
 ]]></content>
     </entry>
