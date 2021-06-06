@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oliwill.github.io</id>
     <title>中华一番包子</title>
-    <updated>2021-05-18T05:06:31.539Z</updated>
+    <updated>2021-06-06T01:02:15.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oliwill.github.io"/>
     <link rel="self" href="https://oliwill.github.io/atom.xml"/>
@@ -10,6 +10,54 @@
     <logo>https://oliwill.github.io/images/avatar.png</logo>
     <icon>https://oliwill.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 中华一番包子</rights>
+    <entry>
+        <title type="html"><![CDATA[如何拥有一块自己的内容自留地]]></title>
+        <id>https://oliwill.github.io/post/ru-he-yong-you-yi-kuai-zi-ji-de-nei-rong-zi-liu-di/</id>
+        <link href="https://oliwill.github.io/post/ru-he-yong-you-yi-kuai-zi-ji-de-nei-rong-zi-liu-di/">
+        </link>
+        <updated>2021-06-06T01:01:05.000Z</updated>
+        <content type="html"><![CDATA[<p>——使用 Gridea 搭建静态 blog</p>
+<p>2020 年，因为一些原因，使用了 10 年的微信账号被变成了一个「私域」账号。那期间，真实感受了什么是数字幽灵，我可以听到人群的声音，可以听到人群中某些人在呼唤我，但是我没法直接反馈给他们。<br>
+具体的表现是，一对一聊天时，我发送任何消息都只会得到一个提醒，提醒我账号违规无法发送消息。当然别人给我发消息也是被告知一样的情况。<br>
+而在群里的对话，我可以阅读，也可以被群友@，但是我依旧没法发送任何消息。</p>
+<p>通过这件事我才更深刻地意识到人与人如果只靠一个 app 链接是一场灾难，而如果一个人把生活也只展示在这一款 app 那真的随时都有灭顶之灾的危险。因此，我决定重新搭建一个 blog，通过 blog 来相对自由地记录自己的生活。</p>
+<p>而对 blog 的选择，首先要确保所有权和使用权都属于我，这样才能避免之前的遭遇。其次，希望它搭建简单，经济实惠，又兼具一定美观性。综合了 Wordpress、Ghost、Typlog 等之后，最终选择了 Gridea。</p>
+<p>##搭建过程<br>
+###安装</p>
+<ol>
+<li>通过 Gridea 官网下载安装<br>
+###配置</li>
+</ol>
+<blockquote>
+<p>Gridea 提供了将博客部署到 Github Pages，Coding Pages 和通过 SFTP 的方式上传到自己的服务器的功能。</p>
+</blockquote>
+<ol>
+<li>创建 GitHub 账号，并创建一个仓库 Token。
+<ol>
+<li>点进 GitHub，按提示进行注册并登陆。</li>
+<li>点击创建一个 token，<strong>勾选 repo 的相关权限</strong>。</li>
+<li>生成后的 token 一定要记录下来并妥善保管，因为这个页面一旦关闭后就无法再次看到。</li>
+</ol>
+</li>
+<li>创建仓库，存放构建后的网站文件。
+<ol>
+<li>创建一个公开仓库，名为<strong>用户名.github.io</strong></li>
+</ol>
+</li>
+<li>进入 Gridea 进行远程设置。
+<ol>
+<li>按照下图的示例进行设置，然后点击「检测远程链接」，进行配置检查。</li>
+</ol>
+</li>
+<li>同步。
+<ol>
+<li>点击 Gridea 中的同步按钮即可。<br>
+完成以上几步后一个静态 Blog 就已经完成了初步搭建，如果还想折腾主题，评论，拥有自己的域名的话后续会继续更新。</li>
+</ol>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[茶餐厅食谱｜麦冬百合清肺汤/生菜啫啫煲/海鲜粥]]></title>
         <id>https://oliwill.github.io/post/cha-can-ting-shi-pu-ormai-dong-bai-he-qing-fei-tang-sheng-cai-zhe-zhe-bao-hai-xian-zhou/</id>
@@ -883,90 +931,6 @@ lupicia 6 月限定石榴茉莉冰红茶 5g<br>
 <li>此时狮子头已经做好后面可以自由发挥，我这次是把另一块老豆腐切块过油炸了一下</li>
 <li>准备一口锅，一片白菜叶裹一颗狮子头放入锅底，再取几片白菜切碎放入锅中，再加入炸好的豆腐，加入白菜汁和切成片的香菇，开火煮开后再转成小火再煮 30 分钟即可</li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一人露营 ひとりキャンプで食って寝る]]></title>
-        <id>https://oliwill.github.io/post/yi-ren-lu-ying-hitorikiyanpudeshi-tuteqin-ru/</id>
-        <link href="https://oliwill.github.io/post/yi-ren-lu-ying-hitorikiyanpudeshi-tuteqin-ru/">
-        </link>
-        <updated>2020-03-22T14:48:32.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="vol1-富士山脚下的芝士热狗-富士山でチーズドツグ">Vol.1 富士山脚下的芝士热狗 富士山でチーズドツグ</h2>
-<blockquote>
-<p>这是讲述了尽情享受一人露营之乐趣的健人和七子的故事。健人喜欢架起篝火，对着喜爱的罐头食品大快朵颐，七子则喜欢就地取材。两人的共通点就是独自一人去露营，饱餐一顿，倒头就睡。</p>
-</blockquote>
-<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/03/22/IMsFRyzbv7YKAjk.png" alt="河口湖.png" loading="lazy"></figure>
-<h3 id="目录">目录</h3>
-<ul>
-<li>露营所在地</li>
-<li>第一集中出现的食物
-<ol>
-<li>黄油煎玉米</li>
-<li>熏鸡肉、鸡蛋、坚果</li>
-<li>芝士热狗</li>
-</ol>
-</li>
-<li>歌曲</li>
-<li>服装及露营工具</li>
-</ul>
-<h3 id="露营所在地">露营所在地</h3>
-<p><img src="https://i.loli.net/2020/03/22/mTVLFuesZCBKGS9.jpg" alt="retreat camp.jpg" loading="lazy"><br>
-第一集健人可以躺在帐篷里看富士山，查下来河口湖旁的Retreat Camp Mahoroba 露营地可以有比较相近的体验。Retreat Camp Mahoroba 距离河口湖 5 公里，并提供花园、露台和公用厨房，Booking 上还能免费停车。<br>
-<a href="https://www.booking.com/hotel/jp/retret-camp-mahoroba.zh-tw.html">Booking 地址</a><br>
-<a href="https://retreatcamp-mahoroba.net/">Retreat Camp Mahoroba 官网地址</a></p>
-<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2020/03/22/cm4s7A9HplSKbXY.png" alt="黄油玉米.png" loading="lazy"></figure>
-<h3 id="黄油煎玉米">黄油煎玉米</h3>
-<p><strong>食材</strong></p>
-<ul>
-<li>黄油 1 块</li>
-<li>Hagoromo 玉米罐头</li>
-<li>盐</li>
-<li>黑胡椒<br>
-<strong>做法</strong></li>
-</ul>
-<ol>
-<li>锅中倒入一块黄油</li>
-<li>黄油融化后倒入一整罐玉米</li>
-<li>撒上盐和黑胡椒粉，拌匀后就可以开动啦</li>
-</ol>
-<p><img src="https://i.loli.net/2020/03/22/eB9AWHIX7pyxwhF.jpg" alt="hagoromo.jpg" loading="lazy"><br>
-hagoromo 的玉米罐头日亚上 3 罐 <a href="https://www.amazon.co.jp/%E3%81%AF%E3%81%94%E3%82%8D%E3%82%82-%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%83%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%B3-CK3-190g-3%E7%BC%B6/dp/B002PH1S4I">￥950</a>。</p>
-<p><img src="https://i.loli.net/2020/03/22/ySJcVW1XglQUOzL.jpg" alt="UNIFLAMEスープン.jpg" loading="lazy"><br>
-健人所使用的勺子是 UNIFLAME 的折叠刀叉，日亚上 <a href="https://www.amazon.co.jp/%E3%83%A6%E3%83%8B%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0-UNIFLAME-FD%E3%82%B9%E3%83%97%E3%83%BC%E3%83%B3-FD%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF-667941/dp/B07PJJ6WKQ/ref=pd_sbs_200_img_1/357-3763087-9870424?_encoding=UTF8&amp;pd_rd_i=B07PJJ6WKQ&amp;pd_rd_r=81471ab5-2b30-4cb4-a350-0361e9d4c66b&amp;pd_rd_w=ZGcIH&amp;pd_rd_wg=bymfI&amp;pf_rd_p=ca22fd73-0f1e-4b39-9917-c84a20b3f3a8&amp;pf_rd_r=MW554WAQSTZZRTFJK3H2&amp;psc=1&amp;refRID=MW554WAQSTZZRTFJK3H2">￥1,840</a></p>
-<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2020/03/22/6qPb2fiT1LlcH8g.png" alt="烟熏坚果.png" loading="lazy"></figure>
-<h3 id="烟熏坚果">烟熏坚果</h3>
-<p><strong>做法</strong><br>
-<img src="https://i.loli.net/2020/03/22/ZA8R7SBkfbVlqx5.jpg" alt="SOTO ST-1316.jpeg" loading="lazy"></p>
-<ul>
-<li>锅底铺一层 <a href="https://wildholics.com/products/soto-st-131x?variant=5406443733021">SOTO ST-1316</a> 烟熏木屑</li>
-<li>在木屑上加一个盘子，撒上坚果，盖盖放火上熏</li>
-<li>一罐啤酒的时间就可以了</li>
-</ul>
-<figure data-type="image" tabindex="4"><img src="https://i.loli.net/2020/03/22/LJvNAM7ZTUiH1s5.png" alt="芝士热狗.png" loading="lazy"></figure>
-<h3 id="芝士热狗">芝士热狗</h3>
-<p><strong>食材</strong></p>
-<ul>
-<li>烟熏芝士 1 块</li>
-<li><a href="https://www.amazon.co.jp/%E5%B7%9D%E5%95%86%E3%83%95%E3%83%BC%E3%82%BA-%E3%83%8E%E3%82%B6%E3%82%AD%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B88%E5%8F%B7%E7%BC%B6-105g%C3%976%E5%80%8B/dp/B00EK7ZHP2/ref=pd_sim_325_8?_encoding=UTF8&amp;pd_rd_i=B00EK7ZHP2&amp;pd_rd_r=215e5a41-7293-44fb-9606-8b491baf495a&amp;pd_rd_w=5OYN1&amp;pd_rd_wg=HdWnk&amp;pf_rd_p=8ae0e5f7-9476-4ca0-b353-c778d256c448&amp;pf_rd_r=QB4PCCKVDGR3N0SGZ9Z0&amp;psc=1&amp;refRID=QB4PCCKVDGR3N0SGZ9Z0">香肠罐头（ノザキブランド ウインナーソーセージ8号缶）</a> 1 罐</li>
-<li>热狗面包 1 个</li>
-<li>七味粉<br>
-<strong>做法</strong></li>
-</ul>
-<ol>
-<li>烤网上刷一层油</li>
-<li>一整罐香肠倒入锅内</li>
-<li>将香肠拨向锅的一边，在另一边把芝士掰碎放入</li>
-<li>热狗面包直接放烤网上烤</li>
-<li>芝士融化后，拿起热狗面包用刀把中间剖开，放入煎过的热狗，再放上芝士</li>
-<li>最后撒上七味粉就可以考验自己是否有一张铁嘴了</li>
-</ol>
-<h3 id="歌曲">歌曲</h3>
-<p><img src="https://i.loli.net/2020/03/22/81EGL7tPygUuMZ4.png" alt="琉璃色地球1.png" loading="lazy"><br>
-健人同学在剧中哼起了松田圣子的《琉璃色地球》，虽然母亲是山口百惠，但是剧中唱同期另一位偶像的歌应该也没什么太大问题吧。</p>
-<h3 id="剧中的服装">剧中的服装</h3>
-<p><img src="https://i.loli.net/2020/03/22/azNxhKHg5UTrWif.png" alt="TILAK ODIN JACKET.png" loading="lazy"><br>
-外套：tilak 的 <a href="%5Bhttps://www.tilak.cz/en/odin-jacket">ODIN JACKET</a></p>
-<p>PS：这次查资料已经查累了，我们下次再见👋</p>
 ]]></content>
     </entry>
 </feed>
