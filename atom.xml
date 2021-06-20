@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oliwill.github.io</id>
     <title>中华一番包子</title>
-    <updated>2021-06-06T01:07:58.284Z</updated>
+    <updated>2021-06-20T15:16:48.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oliwill.github.io"/>
     <link rel="self" href="https://oliwill.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://oliwill.github.io/images/avatar.png</logo>
     <icon>https://oliwill.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 中华一番包子</rights>
+    <entry>
+        <title type="html"><![CDATA[露营的坑可以这么入 ｜ 露营小记]]></title>
+        <id>https://oliwill.github.io/post/lu-ying-de-keng-ke-yi-zhe-me-ru-or-lu-ying-xiao-ji/</id>
+        <link href="https://oliwill.github.io/post/lu-ying-de-keng-ke-yi-zhe-me-ru-or-lu-ying-xiao-ji/">
+        </link>
+        <updated>2021-06-20T15:02:58.000Z</updated>
+        <content type="html"><![CDATA[<p>周末多了「露营」这样一个选择应该是 2021 年提车之后带来的最大变化之一。</p>
+<p>##入坑原因</p>
+<ol>
+<li>拥有自己的车。买车让生活半径变长，也意味着里自然更近。当然，我更怀念小时候家里的院子。</li>
+<li>影视剧和 Youtuber 的影响。「露营物语」为露营提供了一个可模仿的范本，在整理剧中所使用的装备和菜谱时，让自己对露营需要什么，可以做什么有了基础的认知。而 morinone，MINI LIFE，Dentan 这些 youtuber 则让自己对露营产生了向往。作为一个互联网广告人，太需要一个可以远离互联网的活动了。</li>
+</ol>
+<p>##露营装备</p>
+<p>在选择露营装备时，可以不用一步到位，先从必需品着手会是一个试错成本较低的开始。</p>
+<p>比如先买一把舒服的椅子，一张方便携带的茶几，一个炉头，带上家里的水壶，杯子，茶包等，尝试在户外度过一个周末的午后。如果觉得可以接受，甚至心情感到愉悦的话，那可以进一步尝试延长在户外的时间，以及根据实际情况去添置必需品。</p>
+<p>在这里我列一下自己购买的并且认为好用的装备以供参考。</p>
+<ol>
+<li><img src="https://i.loli.net/2021/06/20/HtrnQdBASxs1VEe.jpg" alt="天幕" loading="lazy"><br>
+坐在自己的天幕下就仿佛坐在自己的大自然客厅中。如果不过夜的话，天幕的实用程度和幸福感都会优于帐篷，因为它搭建和收纳都相对更容易，也不用考虑透气之类的问题，只需要防晒，要求高的再考虑到防雨防风的因素即可。</li>
+<li><img src="https://i.loli.net/2021/06/20/p4C1lDrtTbucqYW.png" alt="kermit chair" loading="lazy"><br>
+椅子是必备的，个人体感上 kermit chair 的舒服度要优于 DOD 之类的便携折叠椅，但是它的重量和收纳体积都会比后者大一些。所以如果是有车，愿意为了坐着的舒适性而牺牲掉一些便携性的话，那也可以考虑 kermit，反之则便携性的椅子会更适合一些。</li>
+<li><img src="https://i.loli.net/2021/06/20/d1flPCWHcQz8Ri4.jpg" alt="Hang Out Crank Multi Table " loading="lazy"><br>
+这张茶几不仅颜值高，收纳方便，且具备一定功能性（杯子，碗等器具可以挂在茶几边），因此购买了它。但是它的体重并不轻，并且台面是木质的，所以如果在意重量，或者会有比较多烧烤场景的建议考虑别的茶几。</li>
+<li>关于厨具这块，我更多使用的是日常厨房用品，包括锅，杯子，手摇磨豆机等，初期这部分可以先用现成的，等到后续有了便携性等要求后可以考虑按需购买。</li>
+</ol>
+<p>##营地选择</p>
+<p>在初期建议选择配套成熟的营地，或者去城市内的公园过个下午。不要因为选择了一些风景优美，但是配套设施没跟上的营地，而让自己成为了一个一次性的露营爱好者。</p>
+<p>如果是在上海或周边地区的话，淀山湖，安吉，舟山等都有不少相对成熟的营地，可以通过微信，大众点评搜索来找到预订方式。像淀山湖的美帆营地，水槽，干净的洗手间和浴室，还有篮球场等娱乐设施，会是一个让自己成功入坑的不错选择。当然，找个公园晒晒太阳，喝喝咖啡，也是个不错的选择。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何拥有一块自己的内容自留地]]></title>
         <id>https://oliwill.github.io/post/ru-he-yong-you-yi-kuai-zi-ji-de-nei-rong-zi-liu-di/</id>
@@ -867,70 +897,6 @@ lupicia 6 月限定石榴茉莉冰红茶 5g<br>
 <li>定休日：土·日·祝日</li>
 </ul>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.239507128359!2d139.75791801561223!3d35.69572333678362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c10e29f0001%3A0xdcf8bab93f68e7ba!2z5YW15YWt!5e0!3m2!1szh-CN!2shk!4v1585493918577!5m2!1szh-CN!2shk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虾油炒饭&狮子头]]></title>
-        <id>https://oliwill.github.io/post/xia-you-chao-fan-andshi-zi-tou/</id>
-        <link href="https://oliwill.github.io/post/xia-you-chao-fan-andshi-zi-tou/">
-        </link>
-        <updated>2020-03-22T14:57:31.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="虾油炒饭">虾油炒饭</h2>
-<h3 id="食材">食材</h3>
-<ol>
-<li>虎斑虾 1 盒</li>
-<li>红葱头</li>
-<li>姜</li>
-<li>蒜</li>
-<li>小葱</li>
-<li>香菜</li>
-<li>白米饭</li>
-</ol>
-<h3 id="调料">调料</h3>
-<ol>
-<li>芝麻油</li>
-<li>白胡椒粉</li>
-<li>五香粉</li>
-<li>盐</li>
-</ol>
-<h3 id="做法">做法</h3>
-<ol>
-<li>虎斑虾去头，去壳，虾肉开背去肠线</li>
-<li>姜切片，葱切段，和虾头虾壳一起放入冷锅，倒入芝麻油开火开始熬虾油</li>
-<li>熬虾油的过程中要注意翻炒防止粘锅。看到姜片开始变色说明姜汁已经开始熬出来了，此时可以关火把虾油滤出来备用</li>
-<li>滤出来的虾头和虾壳放进锅中倒入热水，煮开后加入适量盐、白胡椒粉和五香粉，拌匀后滤出虾汤备用。（省下的虾头和虾壳如果喜欢的话，可以炸一下然后放进烤箱烤干再压成粉，如果觉得麻烦的话可以直接丢掉）</li>
-<li>用压蒜器把蒜头压成泥，把姜片压成汁倒入蒜泥中拌匀</li>
-<li>红葱头切片</li>
-<li>热锅倒入虾油，倒入蒜泥、姜汁和红葱头爆香，倒入虾肉翻炒。虾肉变色后就可以倒入白米饭继续炒了</li>
-<li>先把米饭按匀，倒入适量虾汤翻炒，如果喜欢软烂的饭可以多加一些虾汤，反之则可以少加一些，</li>
-<li>出锅前倒入香菜碎翻炒即可出锅，如果喜欢吃锅巴的话可以留一些饭按匀再多煎一会儿</li>
-</ol>
-<h2 id="狮子头">狮子头</h2>
-<h3 id="食材-2">食材</h3>
-<ol>
-<li>五花肉 400g</li>
-<li>白菜 1颗</li>
-<li>葧荠（软骨，油条）按个人喜欢准备</li>
-<li>香菇</li>
-<li>老豆腐</li>
-</ol>
-<h3 id="调料-2">调料</h3>
-<ol>
-<li>白胡椒粉</li>
-<li>芝麻油</li>
-<li>盐</li>
-<li>玉米淀粉</li>
-</ol>
-<h3 id="做法-2">做法</h3>
-<ol>
-<li>五花肉切块放入绞肉机做成绞肉，要注意 3 分肥 7 分肉，如果买的五花肉肥肉部分太多可以适当去掉一些</li>
-<li>白菜取 2 片切段，加水，打成白菜汁备用</li>
-<li>绞肉里可以加入一块老豆腐、葧荠粒、碎软骨或者油条粒，放进搅拌机搅拌 10 分钟。搅拌过程中加入适量芝麻油、白胡椒粉和玉米淀粉</li>
-<li>搅拌均匀的绞肉用手揉成球状，可以用双手来回传导、拍打，把里面的空气拍出</li>
-<li>热油，要宽油，把揉好的狮子头过油炸成金黄色就可以取出滤油备用了</li>
-<li>此时狮子头已经做好后面可以自由发挥，我这次是把另一块老豆腐切块过油炸了一下</li>
-<li>准备一口锅，一片白菜叶裹一颗狮子头放入锅底，再取几片白菜切碎放入锅中，再加入炸好的豆腐，加入白菜汁和切成片的香菇，开火煮开后再转成小火再煮 30 分钟即可</li>
-</ol>
 ]]></content>
     </entry>
 </feed>
