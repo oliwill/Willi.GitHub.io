@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oliwill.github.io</id>
     <title>中华一番包子</title>
-    <updated>2021-07-11T09:35:52.696Z</updated>
+    <updated>2021-07-11T13:34:44.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oliwill.github.io"/>
     <link rel="self" href="https://oliwill.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://oliwill.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 中华一番包子</rights>
     <entry>
-        <title type="html"><![CDATA[一周小记｜一些总结和分享一周小记｜一些总结和分享]]></title>
+        <title type="html"><![CDATA[一周小记｜一些总结和分享]]></title>
         <id>https://oliwill.github.io/post/yi-zhou-xiao-ji-oryi-xie-zong-jie-he-fen-xiang-yi-zhou-xiao-ji-oryi-xie-zong-jie-he-fen-xiang/</id>
         <link href="https://oliwill.github.io/post/yi-zhou-xiao-ji-oryi-xie-zong-jie-he-fen-xiang-yi-zhou-xiao-ji-oryi-xie-zong-jie-he-fen-xiang/">
         </link>
